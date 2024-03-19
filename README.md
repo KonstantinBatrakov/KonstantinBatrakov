@@ -16,6 +16,14 @@
 ### Конаткты: 
 https://t.me/KonstantinBatrakov
 
+### Моя цель: 
+Начать карьеру в области Бизнес/Системного анализа с последующим переходм в в Аналитика данных.
+
+![image](https://github.com/KonstantinBatrakov/KonstantinBatrakov/assets/118470335/dac0d186-21b6-44e0-bceb-466d56522675)
+![image](https://github.com/KonstantinBatrakov/KonstantinBatrakov/assets/118470335/74e94f31-86ea-4bb1-ac6c-7279005955b8)
+
+
+
 <!--
 **KonstantinBatrakov/KonstantinBatrakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
