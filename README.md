@@ -1,6 +1,7 @@
 
 # Здравствуйте, я Константин ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### 
+### В 2022-23 годах прошел курсы, направленные на повышение квалификации, и успешно завершил обучение, получив диплом о профессиональной переподготовке в области Бизнес-Аналитики.
+
 <!--
 **KonstantinBatrakov/KonstantinBatrakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
