@@ -1,5 +1,5 @@
 
-# Здравствуйте, я Константин (https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Здравствуйте, я Константин ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### 
 <!--
 **KonstantinBatrakov/KonstantinBatrakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
