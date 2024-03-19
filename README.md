@@ -36,7 +36,7 @@ https://t.me/KonstantinBatrakov
 Здесь собраны работы по различным направлениям
 - SQL
 - Python
-- Businness process modeling (BPMN, EPC, IDFE0, UML)
+- Business process modeling (BPMN, EPC, IDFE0, UML)
 - Tableau, Power BI, Query
 - Дипломная работа
 
