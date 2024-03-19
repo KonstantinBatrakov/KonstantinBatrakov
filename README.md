@@ -13,6 +13,8 @@
 - Системный Анализ. Модели на UML. Михаил Кумсуков.
 - BABOK.
 - Разработка требований к программному обеспечению. Карл Вигерс.
+### Конаткты: 
+https://t.me/KonstantinBatrakov
 
 <!--
 **KonstantinBatrakov/KonstantinBatrakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
