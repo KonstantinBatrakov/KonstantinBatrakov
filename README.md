@@ -28,9 +28,8 @@ https://t.me/KonstantinBatrakov
 ### Моя цель: 
 Начать карьеру в области Бизнес/Системного анализа с последующим переходм в Аналитику данных.
 
-### Диплом:
-![image](https://github.com/KonstantinBatrakov/KonstantinBatrakov/assets/118470335/dac0d186-21b6-44e0-bceb-466d56522675)
-![image](https://github.com/KonstantinBatrakov/KonstantinBatrakov/assets/118470335/74e94f31-86ea-4bb1-ac6c-7279005955b8)
+### Диплом и сертификаты:
+https://github.com/KonstantinBatrakov/-.git
 
 ### Что здесь собрано:
 Здесь собраны работы по различным направлениям
