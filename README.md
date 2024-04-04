@@ -18,7 +18,7 @@
 - Умею описывать User Story, Use Case, функц/нефункциональные требования, процессы AS IS и TO BE.
 - Имею опыт моделирования в нотациях EPC, BPMN, IDEF0, FlowChart, UML. Знаком с ARIS Express, MS Visio, Camunda modeler, Lucidchart.
 - Знаю основы баз данных, SQL. Обладаю навыками создания и управлениями таблицами, знаю основные операторы и умею писать запросы в SQL. Знаком с DBeaver и MySQL Workbench.
-- Имею опыт работы в Python (библиотеки – Pandas, Numpy, Matplotlib, Seaborn). Знаком с PyCharm, VsCode, Colab.google.
+- Имею опыт работы в Python (библиотеки – Pandas, Numpy, Matplotlib). Знаком с PyCharm, VsCode, Colab.google.
 - Владею навыками визуализации и создания дашбордов в Tableau (умею создавать SET, Parameter) Power BI (умею пользоваться запросами Power Query и писать формулы в DAX)
 - глубокие знания Excel и Google sheets
 
@@ -36,7 +36,7 @@ https://github.com/KonstantinBatrakov/-.git
 - SQL
 - Python
 - Business process modeling (BPMN, EPC, IDFE0, UML)
-- Tableau, Power BI, Query
+- Tableau, Power BI (Power Query, DAX)
 - Дипломная работа
 
 <!--
